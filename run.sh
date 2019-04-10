@@ -7,8 +7,8 @@ me='\033[31;1m' #merah
 pu='\033[37;1m' #putih
 ku='\033[33;1m' #kuning
 toilet -f future "TODPHISH" | lolcat
-echo $pur"author @_djokers.cyberteam"
-echo $pur"Follow Github https://github.com/DJoOKeRs"
+echo $pur"author @D4RK CYB3R INDONESIA"
+echo $pur"Follow Github https://github.com/D4rkT1C"
 python2 p.py
 clear
 echo ____________________________________ | lolcat
@@ -20,7 +20,7 @@ toilet -f term "    //   •       •" | lolcat
 toilet -f term "           •   •   •" | lolcat
 toilet -f term "             •       •" | lolcat
 echo $i "v.1 author </D'JoKeRs>"
-echo $i "WA : 085715209673"
+echo $i "WA : 089501110845"
 echo ____________________________________ | lolcat
 sleep 1
 echo
@@ -104,7 +104,7 @@ echo
 echo
 echo $pur "Thanks Gan Udah Pakai Tools Kami"
 sleep 2
-echo $ku "FOLLOW IG : @_djokers.cyberteam"
+echo $ku "FOLLOW IG : @d4rk.cyberteam"
 echo
 sleep 1
 exit
